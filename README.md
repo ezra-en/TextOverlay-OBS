@@ -1,6 +1,7 @@
+![TextOverlay Logo](./public/favicon.png)
 # TextOverlay-OBS
 
-A simple web-based overlay for customised stream overlays.
+A simple web-based overlay server for customised stream overlays.
 
 ## Getting Started
 
